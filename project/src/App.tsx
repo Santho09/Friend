@@ -85,10 +85,10 @@ function App() {
             <div className="bg-gradient-to-r from-rose-50 to-amber-50 rounded-2xl p-6 sm:p-8 my-8 border border-rose-100">
               <p className="text-xl text-center font-light text-rose-800 leading-relaxed">
                 Ippo namma rendu perum life-la busy-aa irundhaalum ⏳,
-                namma mela irukura love marala nu naan namburen 💞.
+                love for each other marala nu naan namburen 💞.
                 Enaku thirumba school life-a oru dhadava relive panna
                 chance kedaicha 😌,
-                adha dhan naan choose pannuven 🏫✨.
+                adhula  naan  namma spend pana time dan choose pannuven 🏫✨.
               </p>
             </div>
 
